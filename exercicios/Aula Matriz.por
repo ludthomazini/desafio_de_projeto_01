@@ -23,7 +23,7 @@ programa
 			para (inteiro coluna = 0; coluna < u.numero_colunas(matriz); coluna++)
 			{
 			    
-			    escreva("\nInforme numero para a posicao [",linha,"][",coluna,"]: ")
+			    escreva("\Defina um numero para a posicao [",linha,"][",coluna,"]: ")
 			    leia(valor)
 			    
 				se (linha == coluna)
